@@ -1,1 +1,0 @@
-//pada backend tugas pbl ini kelompok kami tidak memakai ORM karena untuk website sudah cukup menggunakan native sql
